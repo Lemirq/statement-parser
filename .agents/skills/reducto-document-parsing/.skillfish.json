@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "reducto-document-parsing",
+  "owner": "reductoai",
+  "repo": "claude-plugins",
+  "path": "plugins/reducto-cli/skills/reducto-document-parsing",
+  "branch": "main",
+  "sha": "58fcaec3d2bd2c9a85145c5c32ec33ac949482ec",
+  "source": "manual"
+}
